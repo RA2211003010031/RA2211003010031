@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ra2211003010031" alt="ra2211003010031" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/adarsh-raj-vats2002/](https://www.linkedin.com/in/adarsh-raj-vats2002/)
+- 🌱 I’m currently learning **DSA (C++)**
 
 - 📫 How to reach me **ar6893@srmist.edu.in**
 
@@ -15,7 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adarsh raj vats2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh raj vats2002" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/adarsh-raj-vats2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adarsh-raj-vats2002/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ar6893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ar6893" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/ar6893/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ar6893/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
